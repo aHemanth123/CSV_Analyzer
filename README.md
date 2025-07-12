@@ -20,10 +20,10 @@ It works entirely **offline**, using local large language models (LLMs) via **Ol
 
 ## 🏗️ Project Structure
 
-csv_analyzer_llm/
-├── app.py              # Streamlit UI       
-├── main.py             # Core logic using LangChain + Ollama    
-├── requirements.txt    # Dependencies    
+csv_analyzer_llm/            
+├── app.py                 # Streamlit UI             
+├── main.py                # Core logic using LangChain + Ollama    
+├── requirements.txt       # Dependencies          
 
 
  ---
