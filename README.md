@@ -90,3 +90,10 @@ Then open your browser to:  http://localhost:8501
 - **Ollama**: Local LLM engine running `llama3`
 - **Streamlit**: Interactive user interface
 - **Pandas**: For CSV data manipulation
+
+---------------
+
+### 🔮 Future Enhancements
+✅ Add support for multiple CSV file uploads
+✅ Enable cross-dataset querying and comparison 
+✅ Add interactive SQL query runner
