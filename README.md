@@ -1,4 +1,4 @@
- # 🧠 CSV AI Analyzer using Ollama + LangChain + Streamlit
+ # 🧠 CSV AI Analyzer using Ollama and LangChain  
 
 This is an intelligent CSV file analyzer built with **LangChain**, **Ollama**, and **Streamlit**. It allows you to upload a CSV file and ask **natural language questions** about its contents — including structure, statistics, missing values, column names, and more.
 
@@ -21,9 +21,10 @@ It works entirely **offline**, using local large language models (LLMs) via **Ol
 ## 🏗️ Project Structure
 
 csv_analyzer_llm/
-├── app.py              # Streamlit UI
-├── main.py             # Core logic using LangChain + Ollama
-├── requirements.txt    # Dependencies
+├── app.py              # Streamlit UI       
+├── main.py             # Core logic using LangChain + Ollama    
+├── requirements.txt    # Dependencies    
+
 
  ---
 
