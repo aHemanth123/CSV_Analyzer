@@ -54,3 +54,17 @@ streamlit run app.py
 Then open your browser to:  http://localhost:8501
 
 
+### 🧠  How It Works
+Upload a CSV file
+
+The app loads the file into a Pandas DataFrame
+
+It extracts:
+  Sample data  
+  Chat history
+
+A prompt is built and passed to the Ollama model (llama3) using LangChain
+
+The model returns a human-readable answer
+
+Chat history is retained to provide context
