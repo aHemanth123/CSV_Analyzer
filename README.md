@@ -94,6 +94,6 @@ Then open your browser to:  http://localhost:8501
 ---------------
 
 ### 🔮 Future Enhancements
-✅ Add support for multiple CSV file uploads
-✅ Enable cross-dataset querying and comparison 
+✅ Add support for multiple CSV file uploads     
+✅ Enable cross-dataset querying and comparison      
 ✅ Add interactive SQL query runner
